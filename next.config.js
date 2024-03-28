@@ -8,7 +8,7 @@ await import("./src/env.js");
 const config = {
   output: 'export',
   reactStrictMode: true,
-  wcMinify: true,
+  swcMinify: true,
   images: { unoptimized: true },
 };
 
