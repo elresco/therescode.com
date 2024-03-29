@@ -19,6 +19,10 @@ export default function Home() {
             <a className="px-4 py-2 rounded-lg bg-orange-500 text-white font-bold border-2 border-orange-500 hover:bg-white hover:text-orange-500" href="https://educabitcoin.com/books">Bitcoin Books</a>
             <a className="px-4 py-2 rounded-lg bg-green-500 text-white font-bold border-2 border-green-500 hover:bg-white hover:text-green-500" href="https://btcpay.educabitcoin.com">BTC Pay Server</a>
           </div>
+          <div className="flex gap-2">
+            <a className="px-4 py-2 rounded-lg bg-orange-500 text-white font-bold border-2 border-orange-500 hover:bg-white hover:text-orange-500" href="https://github.com/therescode">GitHub</a>
+            <a className="px-4 py-2 rounded-lg bg-orange-500 text-white font-bold border-2 border-orange-500 hover:bg-white hover:text-orange-500" href="https://x.com/therescode">X</a>
+          </div>
         </div>
       </main>
     </>
